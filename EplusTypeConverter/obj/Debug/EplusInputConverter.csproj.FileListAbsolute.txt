@@ -1,0 +1,6 @@
+C:\Users\ucan\source\repos\EplusAssignment\EplusTypeConverter\bin\Debug\EplusTypeConverter.dll
+C:\Users\ucan\source\repos\EplusAssignment\EplusTypeConverter\bin\Debug\EplusTypeConverter.pdb
+C:\Users\ucan\source\repos\EplusAssignment\EplusTypeConverter\obj\Debug\EplusInputConverter.csprojAssemblyReference.cache
+C:\Users\ucan\source\repos\EplusAssignment\EplusTypeConverter\obj\Debug\EplusInputConverter.csproj.CoreCompileInputs.cache
+C:\Users\ucan\source\repos\EplusAssignment\EplusTypeConverter\obj\Debug\EplusTypeConverter.dll
+C:\Users\ucan\source\repos\EplusAssignment\EplusTypeConverter\obj\Debug\EplusTypeConverter.pdb

@@ -1,0 +1,6 @@
+C:\Users\ucan\source\repos\EplusAssignment\EplusService\bin\Debug\EplusService.dll
+C:\Users\ucan\source\repos\EplusAssignment\EplusService\bin\Debug\EplusService.pdb
+C:\Users\ucan\source\repos\EplusAssignment\EplusService\obj\Debug\EplusService.csproj.CoreCompileInputs.cache
+C:\Users\ucan\source\repos\EplusAssignment\EplusService\obj\Debug\EplusService.dll
+C:\Users\ucan\source\repos\EplusAssignment\EplusService\obj\Debug\EplusService.pdb
+C:\Users\ucan\source\repos\EplusAssignment\EplusService\obj\Debug\EplusService.csprojAssemblyReference.cache
